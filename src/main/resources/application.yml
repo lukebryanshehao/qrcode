@@ -1,0 +1,7 @@
+# Server settings  打包时移除出去与jar包同级目录即可
+server:  
+    port: 8080
+    # 阿里云IP使用私有IP
+    address: 127.0.0.1
+other:
+    filesavepath: D:/develop/workspace/javaworkspace/FileSavePath
